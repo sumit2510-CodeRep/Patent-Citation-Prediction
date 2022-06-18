@@ -22,30 +22,30 @@ The dataset used is Google Patents dataset.
 ## Predictions
 
 * BERT- 
--      Accuracy score is 84%
--      F1 score is 0.8
--      Precision score is 84%
--      Recall score is  0.8
+ -      Accuracy score is 84%
+ -      F1 score is 0.8
+ -      Precision score is 84%
+ -      Recall score is  0.8
 * Multilayer Perceptron-
--      Accuracy score is 72.7%
--      F1 score is 0.77
--      Precision score is 70.27%
--      Recall score is  0.68
+ -      Accuracy score is 72.7%
+ -      F1 score is 0.77
+ -      Precision score is 70.27%
+ -      Recall score is  0.68
 * Decision Tree-
--      Accuracy score is 67.7%
--      F1 score is 0.62
--      Precision score is 60.27%
--      Recall score is  0.677
+ -      Accuracy score is 67.7%
+ -      F1 score is 0.62
+ -      Precision score is 60.27%
+ -      Recall score is  0.677
 * Random Forest-
--      Accuracy score is 77.47%
--      F1 score is 0.75
--      Precision score is 85.24%
--      Recall score is  0.77 
+ -      Accuracy score is 77.47%
+ -      F1 score is 0.75
+ -      Precision score is 85.24%
+ -      Recall score is  0.77 
 * Naïve Bayes– 
--      Accuracy score is 12.54%
--      F1 score is 0.097
--      Precision score is 14.31%
--      Recall score is  0.12
+ -      Accuracy score is 12.54%
+ -      F1 score is 0.097
+ -      Precision score is 14.31%
+ -      Recall score is  0.12
 
 ## Other Contributors
 
