@@ -22,10 +22,10 @@ The dataset used is Google Patents dataset.
 ## Predictions
 
 * BERT- 
- -      Accuracy score is 84%
- -      F1 score is 0.8
- -      Precision score is 84%
- -      Recall score is  0.8
+   -  Accuracy score is 84%
+   -  F1 score is 0.8
+   -  Precision score is 84%
+   -  Recall score is  0.8
 * Multilayer Perceptron-
  -      Accuracy score is 72.7%
  -      F1 score is 0.77
